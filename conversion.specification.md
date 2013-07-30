@@ -4,7 +4,7 @@ Plus1 WapStart Conversion SDK API
 Спецификация
 ------------
 
-Для учета целевых действий (ЦД) вам необходимо отправить запрос по адресу: http://cnv.plus1.wapstart.ru/<trackId>/?callback=<callbackUrl>
+Для учета целевых действий (ЦД) вам необходимо отправить запрос по адресу: http://cnv.plus1.wapstart.ru/[trackId]/?callback=[callbackUrl]
 
 *Параметры*
   * trackId - id счетчика, который можно посмотреть на странице **Конверсия**;
